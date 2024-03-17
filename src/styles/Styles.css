@@ -1,0 +1,39 @@
+body {
+  
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+
+header {
+  background-color: black;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Dancing Script', cursive;
+  font-size: 3rem;
+  margin: 5% 0;
+}
+
+
+h2 {
+  font-family: 'Montserrat Alternates', sans-serif;
+  color:  white;
+  margin: 3% 0;
+}
+
+h3 {
+  font-family: 'Dancing Script', cursive;
+  font-size: 3rem;
+}
+
+
+
